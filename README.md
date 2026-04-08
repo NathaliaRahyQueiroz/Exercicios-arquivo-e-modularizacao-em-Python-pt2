@@ -1,10 +1,10 @@
 Autor: Nathália Rahy Queiroz   
 Tarefa: Exercícios da modularização e arquivo em Python
 
-36) Receba um número N. Calcule e mostre a série 1 + 1/1! + 1/2! + ... + 1/N!
+36- Receba um número N. Calcule e mostre a série 1 + 1/1! + 1/2! + ... + 1/N!
 
     
-38) Receba 100 números inteiros reais. Verifique e mostre o maior e o menor valor. Obs.: somente valores positivos.
+38- Receba 100 números inteiros reais. Verifique e mostre o maior e o menor valor. Obs.: somente valores positivos.
 
 
 
